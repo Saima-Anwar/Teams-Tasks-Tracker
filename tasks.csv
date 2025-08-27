@@ -1,0 +1,51 @@
+Category,Task Name,Person,Status,Assigned Date,ETA,Date of Completion,Notes/Issues
+Membership Site,Aegis Supplements,Echo,Not Live,2025-04-28,,,Shop backend not integrated
+,Atlas Vitamins,,,2025-04-29,,,Shop backend not integrated
+Support Site,glow supplements,,Completed,2025-04-30,,2025-08-21,Live
+,horizon-vitamins,,,2025-05-01,,2025-08-17,Live
+,vitalife-supplements,,Not Live,2025-05-02,,,No email
+,omniwell-supplements,,Completed,2025-05-03,,2025-08-17,Live
+,momentum-supplements,,,2025-05-04,,2025-08-17,Live
+,sagefield-supplements,,,2025-05-05,,2025-08-17,Live
+,happy-vitamins,,Not Live,2025-05-06,,,Ready but not deployed (since 28-Apr)
+,herbalwise-supplements,,Completed,2025-05-07,,2025-08-22,Live
+,aspen-supplements,,Not Live,2025-05-08,,,On server but have no phone (since 28-Apr)
+,aurora-supplements,,,2025-05-09,,,No phone
+,royal-vitamins,,,2025-05-10,,,On server but have no phone (since 28-Apr)
+,sprout-vitamins,,,2025-05-11,,,No phone
+Label,Rocco Label,Eddie,Completed,2025-07-20,2025-08-19,,Approved by Boss
+Support Site,Aspen Supplements,,,2025-05-28,,,Marked done ? in 21-Jul update
+,Cascade Vitamins,,,2025-05-28,,,"Coded, pending send to Echo"
+,Golden Forest Supplements,,,2025-05-28,,,Design finished & sent to code
+,Kindred Vitamins,,In Design,2025-05-28,,,Eddie update 21-Jul
+,Sprig Supplements,,,2025-05-28,,,Eddie update 21-Jul
+,Juniper Supplements,,Pending,2025-05-28,,,No progress reported
+,Lantern Vitamins,,,2025-05-28,,,No progress reported
+,Nourish Vitamins,,,2025-05-28,,,No progress reported
+,Vitamin Oasis,,,2025-05-28,,,No progress reported
+,Vitamins Nook,,,2025-05-28,,,No progress reported
+,Wellio Supplements,,,2025-07-03,,,No progress update
+,Silverline Supplements,,,2025-07-03,,,No progress update
+,Noven Vitamins,,,2025-07-03,,,No progress update
+,Northblend Vitamins,,,2025-07-03,,,No progress update
+,Brava,,,2025-07-03,,,No progress update
+Bottle,Venoxil,,Completed,2025-07-01,,,Approved by Boss
+,RiseFuel,,,2025-07-01,,,Done & sent
+,Ketonic,,,2025-07-01,,,Approved by Boss
+,GlucoQ,,,2025-07-01,,,Done & sent
+,Arthrovit Cream,,,2025-06-08,,2025-08-12,Approved by Boss with text/layout changes
+,Vein Care Cream,,,2025-06-08,,2025-08-12,Approved by Boss after removing claims & text changes
+,Venoxil Cream,,,2025-06-08,,2025-08-12,Approved by Boss after removing claims & text changes
+,Ketonic Capsules,,,2025-06-08,,2025-08-12,Approved by Boss
+,Twenty Vision Capsules,,,2025-06-08,,2025-08-13,Approved by Boss
+,Rocco (Male Enhancement),,,2025-06-08,,,"Boss asked to restart with new base color (grey), remove background, show examples"
+,Glyco Peak,,Pending,2025-06-08,,,"Boss said “start again,” needs Eddie’s design style, no Misha bottles"
+,Arthricare,,Completed,2025-07-21,,2025-08-22,Completed
+,Cardinal Glyco (Blood),,Pending,2025-07-21,,,Boss requested Eddie’s special work; team asked to restart design
+,Sauvage XL,,In Progress,2025-07-21,,,Still being worked on
+Label,Glyco Peak,,Completed,2025-07-21,,,Approved by Boss
+,Element Organics,,,2025-07-15,2025-08-22,2025-08-26,
+Coded Page,Harper Rose,,,2025-08-01,2025-08-26,2025-08-27,Coded Files sent to Eddie
+,Harper Rose,Echo,Pending,2025-08-26,2025-09-01,,Not Live
+Membership Site,Bastion Supplements,Eddie,Completed,2025-06-15,2025-08-26,2025-08-27,Coded Files sent to Echo
+,Bastion Supplements,Echo,Not Live,2025-08-26,,,Not Live. Files received from Eddie

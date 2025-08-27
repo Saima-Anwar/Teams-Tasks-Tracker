@@ -1,0 +1,15 @@
+{
+  "Category": [
+    "Content"
+  ],
+  "Person": [
+    "Writer"
+  ],
+  "Status": [
+    "Completed",
+    "In Progress",
+    "Live",
+    "Not Live",
+    "Pending"
+  ]
+}
