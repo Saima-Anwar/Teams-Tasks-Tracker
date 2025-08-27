@@ -11,6 +11,22 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Team Task Tracker", layout="wide")
+# --- Simple password gate ---
+def check_password():
+    import streamlit as st
+    if st.session_state.get("authed", False):
+        return True
+    pw = st.text_input("Password", type="password", placeholder="Enter password to continue")
+    if pw:
+        if pw == st.secrets.get("APP_PASSWORD", ""):
+            st.session_state["authed"] = True
+            st.rerun()
+        else:
+            st.error("Wrong password")
+    st.stop()
+
+check_password()
+# --- end password gate ---
 
 HERE = os.path.abspath(os.path.dirname(__file__))
 DATA_FILE = os.path.join(HERE, "tasks.csv")
